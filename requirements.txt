@@ -1,7 +1,7 @@
 beautifulsoup4==4.7.1
 dateparser==0.7.1
 html5lib==1.0.1
-mechanize==0.4.2
+mechanize==0.4.6
 pandas==0.24.2
 fuzzysearch==0.6.2
 fuzzywuzzy==0.17.0
